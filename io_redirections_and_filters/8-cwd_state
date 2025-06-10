@@ -1,2 +1,2 @@
 #!/bin/bash
-redir ls_cwd_content ls_la
+echo "ls_cwd_content" > ls_la
