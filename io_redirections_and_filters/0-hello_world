@@ -1,2 +1,2 @@
 #!/bin/bash
-ls > "Hello, World!" 2>&1
+echo "Hello, World"
