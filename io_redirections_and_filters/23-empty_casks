@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty | ls -a | tr ':' '\n' | wc -l
+find . -empty -typef -name | ls -a | tr ' ' '\n' | wc -l
